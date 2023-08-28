@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to the desired directory
-target_directory="D:/kravein/code/content"
+target_directory="D:/kravein/code/geekery/The Greekery - Food delivery - Balwyn North - Order online_files"
 cd "$target_directory" || exit
 
 # Loop through files with .download extension
